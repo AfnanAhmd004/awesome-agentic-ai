@@ -188,6 +188,7 @@ Small, tested reference implementations of the patterns above:
 | Multi-agent coordination: voting, routing, debate, Byzantine agents | [agent-swarm](https://github.com/AfnanAhmd004/agent-swarm) |
 | Agent evaluation: pass^k and a CI release gate | [agent-evals](https://github.com/AfnanAhmd004/agent-evals) |
 | Specialist agent library with a router and playbooks | [agent-roster](https://github.com/AfnanAhmd004/agent-roster) |
+| Language-to-robot-plan with a symbolic checker and closed-loop replanning (SayCan-style) | [vlm-robot-planner](https://github.com/AfnanAhmd004/vlm-robot-planner) |
 | Robot-fleet operations agent with a model-independent safety layer | [robot-ops-agent](https://github.com/AfnanAhmd004/robot-ops-agent) |
 | Deep research with claim verification and abstention | [deep-research-agent](https://github.com/AfnanAhmd004/deep-research-agent) |
 | n8n workflows with LLM guardrails, tested in a real n8n | [n8n-ai-workflows](https://github.com/AfnanAhmd004/n8n-ai-workflows) |
